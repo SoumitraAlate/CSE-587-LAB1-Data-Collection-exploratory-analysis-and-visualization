@@ -1,1 +1,1 @@
-# CSE-587-LAB1-Data-Collection-exploratory-analysis-and-visualization
+# CSE-587-LAB1-Data-collection-exploratory-analysis-and-visualization
